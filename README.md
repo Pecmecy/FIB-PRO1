@@ -8,6 +8,7 @@ Code for several exercises for the PRO1 subject. <br>
 <br>
 
 List of organized repositories:
-* [P1](https://github.com/Pecmecy/FIB-PRO1/tree/main/P1)
+* [P1-P3](/P1): exercises from P1 to P3 PRO1 course. There are some without tag, that means they belong to the PRO1-exam course for preparation.
+* [P4.2](/P4.2): exercises from P4.2 PRO1 course. 
 <br>
 <hr>
